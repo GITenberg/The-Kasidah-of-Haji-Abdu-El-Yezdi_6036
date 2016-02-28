@@ -1,0 +1,28 @@
+_repo: The-Kasidah-of-Haji-Abdu-El-Yezdi_6036
+alternative_title: The Kadisah of Haji Abdu El-Yezdi
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, R. F. (Richard F.), Sir
+    - Burton, Sir Richard Francis
+    - Baker, Frank
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+title: The Kasîdah of Hâjî Abdû El-Yezdî
+url: http://www.gutenberg.org/ebooks/6036
